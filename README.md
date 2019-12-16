@@ -4,6 +4,6 @@
 
 *For Code Fellows 102d8*
 
-This is where I will be putting stuff that I'm told to put here.
+This is where I will be writing things that I learn in Code 102, class d8.
 
 [Learning Markdown](https://zx37.github.io/learning-journal/)
