@@ -1,4 +1,4 @@
-# Terminal Basics and Text Editors
+# Terminal Basics and the Text Editor
 
 ---
 
@@ -19,7 +19,7 @@ Below is a list of terminal commands we learned on Dec 16th.
 
 ---
 
-**Text Editors**
+**The Text Editor**
 
 We were also introduced to the concept of Text Editors. Text editors range from extremely simple text generating tools like Notepad, to more markdown oriented "WYSIWYG" applications like MS Word, to more capable coding-oriented tools like VS Code, Atom, and Sublime.
 
