@@ -1,4 +1,4 @@
-# learning-journal
+# Learning Journal
 
 **Writings on learning**
 
