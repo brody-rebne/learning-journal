@@ -1,10 +1,14 @@
 # Learning Journal
 
-**Writings on learning**
+---
 
-*For Code Fellows 102d8*
+**Welcome**
 
 This is where I will be writing things that I learn in Code 102, class d8.
+
+---
+
+**Learnings**
 
 [Learnings 0 - Growth Mindset](https://zx37.github.io/learning-journal/learnings-2)
 
