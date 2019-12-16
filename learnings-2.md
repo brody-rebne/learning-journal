@@ -1,3 +1,5 @@
+[Home](https://zx37.github.io/learning-journal/)
+
 # Terminal Basics and the Text Editor
 
 ---
