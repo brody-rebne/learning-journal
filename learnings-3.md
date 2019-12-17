@@ -2,8 +2,6 @@
 
 # GitHub Workflow
 
----
-
 **Cloning Remote Repos**
 
 Cloning a remote repo on GitHub allows you to work locally on code stored in the cloud. The initial cloning process downloads the repo locally, and ties it to the GitHub version. This allows you to sync any edits made locally back to the GitHub repo.

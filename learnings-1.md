@@ -2,8 +2,6 @@
 
 # GitHub Repositories and Markdown Basics #
 
----
-
 **GitHub Repositories**
 
 We've spent some time now creating and deploying a GitHub repository (repo, for short). Repos are GitHub's method of storing files for development projects, both for businesses and individuals. They allow anyone to create simpler and more shareable codebases.

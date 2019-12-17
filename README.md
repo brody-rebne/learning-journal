@@ -1,7 +1,5 @@
 # Learning Journal
 
----
-
 **Welcome**
 
 This is where I will be writing things that I learn in Code 102, class d8.
@@ -9,8 +7,6 @@ This is where I will be writing things that I learn in Code 102, class d8.
 ---
 
 ## Learnings
-
----
 
 **Dec 16th**
 

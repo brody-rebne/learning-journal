@@ -2,8 +2,6 @@
 
 # Terminal Basics and the Text Editor
 
----
-
 **Terminal Basics**
 
 Terminal is a more manual, and, for development purposes, more efficient method of accessing and manipulating files. Within the terminal, one uses shorthand commands to perform a vast range of operations on files and directories.
