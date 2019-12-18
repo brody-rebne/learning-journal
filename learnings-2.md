@@ -2,7 +2,7 @@
 
 # Terminal Basics and the Text Editor
 
-**Terminal Basics**
+## Terminal Basics
 
 Terminal is a more manual, and, for development purposes, more efficient method of accessing and manipulating files. Within the terminal, one uses shorthand commands to perform a vast range of operations on files and directories.
 
@@ -17,9 +17,7 @@ Below is a list of terminal commands we learned on Dec 16th.
 - rm [name] - Remove file
 - rmdir [name] - Remove directory
 
----
-
-**The Text Editor**
+## The Text Editor
 
 We were also introduced to the concept of Text Editors. Text editors range from extremely simple text generating tools like Notepad, to more markdown oriented "WYSIWYG" applications like MS Word, to more capable coding-oriented tools like VS Code, Atom, and Sublime.
 

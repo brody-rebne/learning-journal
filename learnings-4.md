@@ -8,15 +8,11 @@ HTML is a markup language made ubiquitous by its role as the provider of raw con
 
 HTML creates a relatively blank canvas, providing only the necessary structural definitions of content, allowing its companion languages CSS and JavaScript to focus on the styling and functionality of the content respectively.
 
----
-
-**Structure Within HTML**
+## Structure Within HTML
 
 HTML follows a straightforward set of defaults in order to structure itself if it for any reason lacks CSS styling. Every element is treated like a rectangular block, except for some inline elements used for things like italic text or images. Each block is placed beneath the one written above it in the source code, and aligned to the left. Elements like headers, anchors, and unordered lists are provided with some basic styling as well, although this hardly interferes with the elements' structure.
 
----
-
-**Structuring With CSS**
+## Structuring With CSS
 
 There are a few basic CSS selectors that provide the basic structuring of HTML elements on any webpage or app. These include:
 
@@ -26,9 +22,7 @@ There are a few basic CSS selectors that provide the basic structuring of HTML e
 
 There are many more tools beyond these for manipulating HTML elements in CSS, including the box model which is used to control the more subtle positionings of elements.
 
----
-
-**Layouts**
+## Layouts
 
 There are two general philosophies for laying out pages, each with benefits and downsides.
 
