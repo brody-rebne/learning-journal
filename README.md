@@ -25,3 +25,5 @@ This is where I will be writing things that I learn in Code 102, class d8.
 ### Dec 18th
 
 [Learnings 5 - CSS Basics and Color](https://zx37.github.io/learning-journal/learnings-5)
+
+[Learnings 6a - JavaScript Basics](https://zx37.github.io/learning-journal/learnings-6a)
