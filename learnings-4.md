@@ -2,7 +2,7 @@
 
 # HTML Basics and Structure
 
-**HTML Basics**
+## HTML Basics
 
 HTML is a markup language made ubiquitous by its role as the provider of raw content for every webpage and webapp in the modern world. It is a very structured language, concerned less with the details, appearance, and functionality of a page's content, and more with its core definitions and hierarchical relationships.
 

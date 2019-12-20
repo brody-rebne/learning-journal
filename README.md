@@ -29,3 +29,7 @@ This is where I will be writing things that I learn in Code 102, class d8.
 [Learnings 6a - JavaScript Basics](https://zx37.github.io/learning-journal/learnings-6a)
 
 [Learnings 6b - *How Computers Work*, Notes and Takeaways](https://zx37.github.io/learning-journal/learnings-6b)
+
+### Dec 19th
+
+[Learnings 6b - JavaScript Objects and Expressions](https://zx37.github.io/learning-journal/learnings-6b)
