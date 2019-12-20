@@ -32,4 +32,4 @@ This is where I will be writing things that I learn in Code 102, class d8.
 
 ### Dec 19th
 
-[Learnings 7- JavaScript Objects and Expressions](https://zx37.github.io/learning-journal/learnings-7)
+[Learnings 7 - JavaScript Objects and Expressions](https://zx37.github.io/learning-journal/learnings-7)
